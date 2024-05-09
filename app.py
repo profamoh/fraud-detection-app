@@ -102,7 +102,7 @@ def about():
     - **Fraud Detection:** Predict the fraudulent nature of credit card transactions.
     - **Visualization:** Provides graphical representation of fraud vs. non-fraud transactions.
 
-    For any issues regarding the functionality of the application, please contact Jonathan Pollyn.
+    By Donald Taye
     """)
 
 # Data exploration section
